@@ -8,3 +8,5 @@
 
 ## Installation
 
+1. Add HyperRegistry Chart Museum 
+2. Install Chart
