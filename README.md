@@ -10,8 +10,7 @@
 
 1. Add HyperRegistry Chart Museum 
     ```bash
-	  helm repo add HyperRegistry 
-      https://tmax-cloud.github.io/HyperRegistry-Chart/
+	  helm repo add HyperRegistry https://tmax-cloud.github.io/HyperRegistry-Chart/
 	  ```
 
 2. Install Chart
