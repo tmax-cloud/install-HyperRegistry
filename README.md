@@ -1,12 +1,10 @@
 # install-HyperRegistry
 
-# installation guide for HyperRegistry
-
 ## Prerequisites
 * Kubernetes, Helm3
 
 ## Purpose
-* for operating Tmax Cloud's Public image registry
+* For operating Tmax Cloud's Public image registry
 
 ## Installation
 
