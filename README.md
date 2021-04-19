@@ -1,4 +1,4 @@
-# install-hyperregistry
+# install-HyperRegistry
 
 # installation guide for HyperRegistry
 
@@ -8,4 +8,5 @@
 ## Purpose
 * for operating Tmax Cloud's Public image registry
 
-## 
+## Installation
+
