@@ -13,7 +13,7 @@
 	  helm repo add HyperRegistry https://tmax-cloud.github.io/HyperRegistry-Chart/
 	  ```
 2. update helm repository
- ```bash
+ 	```bash
 	  helm repo update
 	  ```
 
