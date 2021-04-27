@@ -19,7 +19,7 @@
 
 3. Install Chart
    ```bash
-   helm install hyperregistry -n hyper-registry HyperRegistry/HyperRegistry --set expose.type=ingress,expose.ingress.hosts.core=core.${ingressControllerExternalIp}.nip.io,expose.ingress.hosts.notary=notary.${ingressControllerExternalIp}.nip.io
+   helm install hyperregistry -n hyper-registry HyperRegistry/HyperRegistry --set expose.type=ingress,expose.ingress.hosts.core=core.${ingressControllerExternalIp}.nip.io,expose.ingress.hosts.notary=notary.${ingressControllerExternalIp}.nip.io,externalURL=https://core.${ingressControllerExternalIp}.nip.io
     ```
 
 4. Checkout HyperRegistry Dashboard
